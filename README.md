@@ -3,7 +3,7 @@
 Welcome to the **Pong-1.0** repository! This is a Unity WebGL game playable directly in your browser.
 
 ## Play the Game
-**[[Your Deployed Link]](https://play.unity.com/en/games/b12d1ec4-fbb4-461a-8fca-6c4c4e7bfb5b/pong-10)**
+**[[WebGL-Pong-1.0]](https://play.unity.com/en/games/b12d1ec4-fbb4-461a-8fca-6c4c4e7bfb5b/pong-10)**
 
 ## Getting Started
 ### Prerequisites
