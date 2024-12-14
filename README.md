@@ -17,11 +17,3 @@ Welcome to the **Pong-1.0** repository! This is a Unity WebGL game playable dire
    cd your-game-repo
    ```
 2. Open in Unity, switch to **WebGL** platform, and build the project.
-
-### Run Locally
-Serve the build with an HTTP server:
-```bash
-cd /path-to-build-folder
-python3 -m http.server
-```
-Visit `http://localhost:8000` in your browser.
